@@ -2,6 +2,11 @@
 
 Specter is a multi-tool designed for various OSINT (Open Source Intelligence) tasks. This tool includes features for password encryption, IP address lookup, phone number lookup, email analysis, and more. It aims to provide a simple interface for performing various informational tasks related to cybersecurity.
 
+### Note
+
+To get Specter, please visit the **Releases** section of this repository.
+
+
 ## Features
 
 - **Password Encryption**: Securely encrypt and decrypt passwords.
